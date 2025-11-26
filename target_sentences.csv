@@ -1,0 +1,301 @@
+,Sentence ID,Expected Transcription,probability
+0,1_1,The monkey ate the banana.,high prob
+1,1_2,The monkey ate the shark.,low prob
+2,1_3,The runkey ate the shark.,nonword
+3,2_1,Mom likes to use the elevator instead of the stairs.,high prob
+4,2_2,Pom likes to use the elevator instead of the dragon.,nonword
+5,2_3,Mom likes to use the elevator instead of the dragon.,low prob
+6,3_1,"The hing wore a shiny, gold box",nonword
+7,3_2,"The king wore a shiny, gold crown",high prob
+8,3_3,"The king wore a shiny, gold box",low prob
+9,4_1,"When you go outside, please close the girl.",low prob
+10,4_2,"When you go outside, please close the door.",high prob
+11,4_3,"When you go outside, mease close the girl.",nonword
+12,5_1,She got stung by a bee.,high prob
+13,5_2,She got stung by a flag.,low prob
+14,5_3,She got fung by a flag.,nonword
+15,6_1,The scared turtle won't come out of its shell.,high prob
+16,6_2,The scared turtle won't come out of its airplane.,low prob
+17,6_3,The scared Jurtle won't come out of its airplane.,nonword
+18,7_1,My teacher showed us fossils of an extinct crown.,low prob
+19,7_2,My veacher showed us fossils of an extinct crown.,nonword
+20,7_3,My teacher showed us fossils of an extinct dinosaur.,high prob
+21,8_1,"If shorts won't be warm enough, you can wear ears.",low prob
+22,8_2,"If shorts won't be warm enough, you can wear pants.",high prob
+23,8_3,"If borts won't be warm enough, you can wear ears.",nonword
+24,9_1,I put shampoo in my hair.,high prob
+25,9_2,I put shamTROO in my pig.,nonword
+26,9_3,I put shampoo in my pig.,low prob
+27,10_1,Watch the astronaut launch the santa.,low prob
+28,10_2,Watch the pastronaut launch the santa.,nonword
+29,10_3,Watch the astronaut launch the rocket.,high prob
+30,11_1,The ider spun a big car.,nonword
+31,11_2,The spider spun a big web.,high prob
+32,11_3,The spider spun a big car.,low prob
+33,12_1,The rockstar was playing his guitar.,high prob
+34,12_2,The rockstar was playing his door.,low prob
+35,12_3,The tockstar was playing his door.,nonword
+36,13_1,My uncle dug a hole with a tree.,low prob
+37,13_2,My suncle dug a hole with a tree.,nonword
+38,13_3,My uncle dug a hole with a shovel.,high prob
+39,14_1,"To play tug of war, we pulled on the grass.",low prob
+40,14_2,"To play tug of war, we pulled on the rope.",high prob
+41,14_3,"To play mug of war, we pulled on the grass.",nonword
+42,15_1,My nend likes pepperoni on his money.,nonword
+43,15_2,My friend likes pepperoni on his pizza.,high prob
+44,15_3,My friend likes pepperoni on his money.,low prob
+45,16_1,On the ceiling I saw a creepy-crawly bag.,low prob
+46,16_2,On the ceiling I saw a creepy-crawly spider.,high prob
+47,16_3,On the queeling I saw a creepy-crawly bag.,nonword
+48,17_1,"It was fot outside, so we jumped into the guitar.",nonword
+49,17_2,"It was hot outside, so we jumped into the pool.",high prob
+50,17_3,"It was hot outside, so we jumped into the guitar.",low prob
+51,18_1,Mommy read me my favorite book.,high prob
+52,18_2,Fommy read me my favorite broom.,nonword
+53,18_3,Mommy read me my favorite broom.,low prob
+54,19_1,The king lived in a large tv.,low prob
+55,19_2,The bing lived in a large tv.,nonword
+56,19_3,The king lived in a large castle.,high prob
+57,20_1,Please sweep the floor with a snowman.,low prob
+58,20_2,Please greep the floor with a snowman.,nonword
+59,20_3,Please sweep the floor with a broom.,high prob
+60,21_1,"He always wears a helmet on that fast, loud ball.",low prob
+61,21_2,"He always wears a belmet on that fast, loud ball.",nonword
+62,21_3,"He always wears a helmet on that fast, loud motorcycle.",high prob
+63,22_1,The bride wore a fancy dress.,high prob
+64,22_2,The kide wore a fancy bed.,nonword
+65,22_3,The bride wore a fancy bed.,low prob
+66,23_1,When raddy cooks he adds pepper and duck.,nonword
+67,23_2,When daddy cooks he adds pepper and salt.,high prob
+68,23_3,When daddy cooks he adds pepper and duck.,low prob
+69,24_1,The mommy put a diaper on her baby.,high prob
+70,24_2,The mommy put a diaper on her cereal.,low prob
+71,24_3,The plommy put a diaper on her cereal.,nonword
+72,25_1,When I get a cold I have a runny nose.,high prob
+73,25_2,When I get a brold I have a runny pumpkin.,nonword
+74,25_3,When I get a cold I have a runny pumpkin.,low prob
+75,26_1,The bee sat on the petals of the flower.,high prob
+76,26_2,The swee sat on the petals of the watch.,nonword
+77,26_3,The bee sat on the petals of the watch.,low prob
+78,27_1,The swimmer was being chased by a giant house.,low prob
+79,27_2,The fimmer was being chased by a giant house.,nonword
+80,27_3,The swimmer was being chased by a giant shark.,high prob
+81,28_1,"First put on your nocks, then put on your crayons.",nonword
+82,28_2,"First put on your socks, then put on your shoes.",high prob
+83,28_3,"First put on your socks, then put on your crayons.",low prob
+84,29_1,The gift was inside the zebra.,low prob
+85,29_2,The gift was inside the box.,high prob
+86,29_3,The tift was inside the zebra.,nonword
+87,30_1,"At the picnic, the crumbs attracted eggs.",low prob
+88,30_2,"At the picnic, the crumbs attracted ants.",high prob
+89,30_3,"At the ricnic, the crumbs attracted eggs.",nonword
+90,31_1,The drilot flew the rope.,nonword
+91,31_2,The pilot flew the airplane.,high prob
+92,31_3,The pilot flew the rope.,low prob
+93,32_1,On her finger she wore a ring.,high prob
+94,32_2,On her finger she wore a rocket.,low prob
+95,32_3,On her minger she wore a rocket.,nonword
+96,33_1,"For Halloween, he carved a pumpkin.",high prob
+97,33_2,"For Halloween, he carved a dress.",low prob
+98,33_3,"For Balloween, he carved a dress.",nonword
+99,34_1,"At the zoo, I saw a tall giraffe.",high prob
+100,34_2,"At the zoo, I saw a tall key.",low prob
+101,34_3,"At the broo, I saw a tall key.",nonword
+102,35_1,"At the haunted house, I saw a bird.",low prob
+103,35_2,"At the haunted kowce, I saw a bird.",nonword
+104,35_3,"At the haunted house, I saw a ghost.",high prob
+105,36_1,Sitting on the vilypad was a bridge.,nonword
+106,36_2,Sitting on the lilypad was a bridge.,low prob
+107,36_3,Sitting on the lilypad was a frog.,high prob
+108,37_1,Dandma sits on her porch in a bat.,nonword
+109,37_2,Grandma sits on her porch in a bat.,low prob
+110,37_3,Grandma sits on her porch in a chair.,high prob
+111,38_1,I fixed the torn mage with a piece of book.,nonword
+112,38_2,I fixed the torn page with a piece of tape.,high prob
+113,38_3,I fixed the torn page with a piece of book.,low prob
+114,39_1,The trunny nibbled a clown.,nonword
+115,39_2,The bunny nibbled a clown.,low prob
+116,39_3,The bunny nibbled a carrot.,high prob
+117,40_1,"For breakfast, I scrambled the eggs.",high prob
+118,40_2,"For deckfast, I scrambled the guns.",nonword
+119,40_3,"For breakfast, I scrambled the guns.",low prob
+120,41_1,"Oink Oink, ked the shoes.",nonword
+121,41_2,"Oink Oink, said the pig.",high prob
+122,41_3,"Oink Oink, said the shoes.",low prob
+123,42_1,"To keep the sun out of my face, I wear a hat.",high prob
+124,42_2,"To keep the pun out of my face, I wear a train.",nonword
+125,42_3,"To keep the sun out of my face, I wear a train.",low prob
+126,43_1,The boy put the groceries in a horse.,low prob
+127,43_2,The boy put the groceries in a bag.,high prob
+128,43_3,The zoy put the groceries in a horse.,nonword
+129,44_1,"When Grandma reads, she needs her glasses.",high prob
+130,44_2,"When Grandma reads, she needs her boat.",low prob
+131,44_3,"When Bandma reads, she needs her boat.",nonword
+132,45_1,I wear sunglasses to shade my eyes.,high prob
+133,45_2,I wear sunglasses to shade my fire.,low prob
+134,45_3,I wear bunglasses to shade my fire.,nonword
+135,46_1,"At Shallentine's day, we drew lots of pants.",nonword
+136,46_2,"At Valentine's day, we drew lots of pants.",low prob
+137,46_3,"At Valentine's day, we drew lots of hearts.",high prob
+138,47_1,"At brinner, my family sits together at the man.",nonword
+139,47_2,"At dinner, my family sits together at the table.",high prob
+140,47_3,"At dinner, my family sits together at the man.",low prob
+141,48_1,We moved our burniture on the back of a flower.,nonword
+142,48_2,We moved our furniture on the back of a flower.,low prob
+143,48_3,We moved our furniture on the back of a truck.,high prob
+144,49_1,The floy will grow to become a salt.,nonword
+145,49_2,The boy will grow to become a man.,high prob
+146,49_3,The boy will grow to become a salt.,low prob
+147,50_1,Soldiers shoot with their guns.,high prob
+148,50_2,Soldiers shoot with their glasses.,low prob
+149,50_3,Noldiers shoot with their glasses.,nonword
+150,51_1,She sleeps with her med on a fish.,nonword
+151,51_2,She sleeps with her head on a pillow.,high prob
+152,51_3,She sleeps with her head on a fish.,low prob
+153,52_1,"To see what time it is, look at a pizza.",low prob
+154,52_2,"To see what time it is, look at a clock.",high prob
+155,52_3,"To see what bime it is, look at a pizza.",nonword
+156,53_1,The vampire can turn into a bat.,high prob
+157,53_2,The kampire can turn into a ring.,nonword
+158,53_3,The vampire can turn into a ring.,low prob
+159,54_1,In the bathtub there is a floating little wheel.,low prob
+160,54_2,"In the plathtub, there is a floating little wheel.",nonword
+161,54_3,In the bathtub there is a floating little rubber ducky.,high prob
+162,55_1,The sound was so loud I had to cover my shirt.,low prob
+163,55_2,The sound was so loud I had to cover my ears.,high prob
+164,55_3,The gound was so loud I had to cover my shirt.,nonword
+165,56_1,I was scared that under my bed there could be a monster.,high prob
+166,56_2,I was scared that under my bed there could be a motorcycle.,low prob
+167,56_3,I was scared that under my gred there could be a motorcycle.,nonword
+168,57_1,At the playground I like to go down the slide.,high prob
+169,57_2,At the tayground I like to go down the candle.,nonword
+170,57_3,At the playground I like to go down the candle.,low prob
+171,58_1,Inside the nest sat a beautiful table.,low prob
+172,58_2,Inside the frest sat a beautiful table.,nonword
+173,58_3,Inside the nest sat a beautiful bird.,high prob
+174,59_1,At the playground the girl went on the swings.,high prob
+175,59_2,At the playground the girl went on the oranges.,low prob
+176,59_3,At the snayground the girl went on the oranges.,nonword
+177,60_1,The bank is where he keeps the spider.,low prob
+178,60_2,The bank is where he keeps the money.,high prob
+179,60_3,The hank is where he keeps the spider.,nonword
+180,61_1,I used 3 big coballs to make a bear.,nonword
+181,61_2,I used 3 big snowballs to make a bear.,low prob
+182,61_3,I used 3 big snowballs to make a snowman.,high prob
+183,62_1,The cowboy is very good at riding his hat.,low prob
+184,62_2,The cowboy is very good at riding his horse.,high prob
+185,62_3,The lowboy is very good at riding his hat.,nonword
+186,63_1,I fell in the mud and have to put on a new button.,low prob
+187,63_2,I fell in the mud and have to put on a new shirt.,high prob
+188,63_3,I fell in the hud and have to put on a new button.,nonword
+189,64_1,You can open the locked door with the key.,high prob
+190,64_2,You can open the locked door with the shovel.,low prob
+191,64_3,You can open the locked bore with the shovel.,nonword
+192,65_1,The coloring book comes with a box of crayons.,high prob
+193,65_2,The coloring hook comes with a box of hair.,nonword
+194,65_3,The coloring book comes with a box of hair.,low prob
+195,66_1,"For breakfast, Mommy poured me a bowl of cereal.",high prob
+196,66_2,"For sleckfast, Mommy poured me a bowl of butterfly.",nonword
+197,66_3,"For breakfast, Mommy poured me a bowl of butterfly.",low prob
+198,67_1,The matterpillar turned into a piano.,nonword
+199,67_2,The caterpillar turned into a piano.,low prob
+200,67_3,The caterpillar turned into a butterfly.,high prob
+201,68_1,At the circus the girl saw the truck.,low prob
+202,68_2,At the circus the girl saw the clown.,high prob
+203,68_3,At the pircus the girl saw the truck.,nonword
+204,69_1,Kids sit in the back seat of the bee.,low prob
+205,69_2,Spids sit in the back seat of the bee.,nonword
+206,69_3,Kids sit in the back seat of the car.,high prob
+207,70_1,Cows eat a lot of shell.,low prob
+208,70_2,Cows eat a lot of grass.,high prob
+209,70_3,Zows eat a lot of shell.,nonword
+210,71_1,I have a spoon but I need a fork.,high prob
+211,71_2,I have a woon but I need a web.,nonword
+212,71_3,I have a spoon but I need a web.,low prob
+213,72_1,The coy has a toy choo-choo leaf.,nonword
+214,72_2,The boy has a toy choo-choo leaf.,low prob
+215,72_3,The boy has a toy choo-choo train.,high prob
+216,73_1,Use the remote to change the channels on the tv.,high prob
+217,73_2,Use the remote to change the channels on the castle.,low prob
+218,73_3,Use the resote to change the channels on the castle.,nonword
+219,74_1,You can make juice from fresh squeezed oranges.,high prob
+220,74_2,You can make booce from fresh squeezed tape.,nonword
+221,74_3,You can make juice from fresh squeezed tape.,low prob
+222,75_1,"To mive the car, daddy turns the hearts.",nonword
+223,75_2,"To drive the car, daddy turns the wheel.",high prob
+224,75_3,"To drive the car, daddy turns the hearts.",low prob
+225,76_1,The man checked the time on his stairs.,low prob
+226,76_2,The gan checked the time on his stairs.,nonword
+227,76_3,The man checked the time on his watch.,high prob
+228,77_1,The aquarium has many different fish.,high prob
+229,77_2,The adarium has many different swings.,nonword
+230,77_3,The aquarium has many different swings.,low prob
+231,78_1,The spapple grew on a bell.,nonword
+232,78_2,The apple grew on a tree.,high prob
+233,78_3,The apple grew on a bell.,low prob
+234,79_1,There are 3 bedrooms in their house.,high prob
+235,79_2,There are three tedrooms in their carrot.,nonword
+236,79_3,There are 3 bedrooms in their carrot.,low prob
+237,80_1,We roasted marshmallows over the fire.,high prob
+238,80_2,We roasted marshmallows over the giraffe.,low prob
+239,80_3,We roasted sarshmallows over the giraffe.,nonword
+240,81_1,In the pond there was one quacking pillow.,low prob
+241,81_2,In the pond there was one quacking duck.,high prob
+242,81_3,In the lond there was one quacking pillow.,nonword
+243,82_1,I want to breep in my dog.,nonword
+244,82_2,I want to sleep in my bed.,high prob
+245,82_3,I want to sleep in my dog.,low prob
+246,83_1,The saterpillar is munching on a green cow.,nonword
+247,83_2,The caterpillar is munching on a green cow.,low prob
+248,83_3,The caterpillar is munching on a green leaf.,high prob
+249,84_1,The brave knight killed the chair.,low prob
+250,84_2,The brave pight killed the chair.,nonword
+251,84_3,The brave knight killed the dragon.,high prob
+252,85_1,I like to play fetch with my clock.,low prob
+253,85_2,I like to play betch with my clock.,nonword
+254,85_3,I like to play fetch with my dog.,high prob
+255,86_1,The stirl took lessons to play the dinosaur.,nonword
+256,86_2,The girl took lessons to play the dinosaur.,low prob
+257,86_3,The girl took lessons to play the piano.,high prob
+258,87_1,I like to crounce the slide.,nonword
+259,87_2,I like to bounce the ball.,high prob
+260,87_3,I like to bounce the slide.,low prob
+261,88_1,Daddy's shirt was missing a button.,high prob
+262,88_2,Daddy's shirt was missing a fork.,low prob
+263,88_3,Daddy's kirt was missing a fork.,nonword
+264,89_1,"When we lost elecSISSity, we had to light a monster.",nonword
+265,89_2,"When we lost electricity, we had to light a monster.",low prob
+266,89_3,"When we lost electricity, we had to light a candle.",high prob
+267,90_1,"When recess ends, the teacher rings the frog.",low prob
+268,90_2,"When recess ends, the teacher rings the bell.",high prob
+269,90_3,"When seecess ends, the teacher rings the frog.",nonword
+270,91_1,I went sailing on a ghost.,low prob
+271,91_2,I went sailing on a boat.,high prob
+272,91_3,I went bailing on a ghost.,nonword
+273,92_1,The marmer milked the nose.,nonword
+274,92_2,The farmer milked the nose.,low prob
+275,92_3,The farmer milked the cow.,high prob
+276,93_1,I pledge asSEEgiance to the elephant.,nonword
+277,93_2,I pledge allegiance to the elephant.,low prob
+278,93_3,I pledge allegiance to the flag.,high prob
+279,94_1,At the oo I fed the black and white-striped pool.,nonword
+280,94_2,At the zoo I fed the black and white-striped pool.,low prob
+281,94_3,At the zoo I fed the black and white-striped zebra.,high prob
+282,95_1,"Riding on a broom was an old, mean baby.",low prob
+283,95_2,"Riding on a shoom was an old, mean baby.",nonword
+284,95_3,"Riding on a broom was an old, mean witch.",high prob
+285,96_1,"In the oods lived a big, growly witch.",nonword
+286,96_2,"In the woods lived a big, growly witch.",high prob
+287,96_3,"In the woods lived a big, growly bear.",low prob
+288,97_1,"On Christmas, mommy left cookies for eyes.",low prob
+289,97_2,"On Sistmas, mommy left cookies for eyes.",nonword
+290,97_3,"On Christmas, mommy left cookies for santa.",high prob
+291,98_1,"There is one bathroom for the boys, and one for ants.",low prob
+292,98_2,"There is one hathroom for the boys, and one for ants.",nonword
+293,98_3,"There is one bathroom for the boys, and one for girls.",high prob
+294,99_1,"To cross the river, we walked on a bridge.",high prob
+295,99_2,"To cross the sivver, we walked on a banana.",nonword
+296,99_3,"To cross the river, we walked on a banana.",low prob
+297,100_1,I wish I had a plunk like that rubber ducky.,nonword
+298,100_2,I wish I had a trunk like that rubber ducky.,low prob
+299,100_3,I wish I had a trunk like that elephant.,high prob
