@@ -1,1 +1,0 @@
-Add a snake around the globe when on the oranges.
