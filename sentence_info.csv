@@ -74,9 +74,9 @@ sentence_id,sentence_type,reference,expected_transcription,acceptable_transcript
 25_1,high prob,When I get a cold I have a runny nose.,when i get a cold i have a runny nose,
 25_2,nonword,When I get a brold I have a runny pumpkin.,when i get a brold i have a runny pumpkin,
 25_3,low prob,When I get a cold I have a runny pumpkin.,when i get a cold i have a runny pumpkin,
-26_1,high prob,The bee sat on the petals of the flower.,the bee sat on the petals of the flower,"['the bee sat on the petals of the flour','the b sat on the petals of the flour','the b sat on the petals of the flower']"
-26_2,nonword,The swee sat on the petals of the watch.,the swee sat on the petals of the watch,
-26_3,low prob,The bee sat on the petals of the watch.,the bee sat on the petals of the watch,['the b sat on the petals of the watch']
+26_1,high prob,The bee sat on the petals of the flower.,the bee sat on the petals of the flower,"['the bee sat on the petals of the flour','the b sat on the petals of the flour','the b sat on the petals of the flower','the bee sat on the pedals of the flour','the b sat on the pedals of the flour','the b sat on the pedals of the flower']"
+26_2,nonword,The swee sat on the petals of the watch.,the swee sat on the petals of the watch,['the swee sat on the pedals of the watch']
+26_3,low prob,The bee sat on the petals of the watch.,the bee sat on the petals of the watch,"['the b sat on the petals of the watch','the b sat on the pedals of the watch','the bee sat on the pedals of the watch']"
 27_1,low prob,The swimmer was being chased by a giant house.,the swimmer was being chased by a giant house,
 27_2,nonword,The fimmer was being chased by a giant house.,the fimmer was being chased by a giant house,
 27_3,high prob,The swimmer was being chased by a giant shark.,the swimmer was being chased by a giant shark,
@@ -131,7 +131,7 @@ sentence_id,sentence_type,reference,expected_transcription,acceptable_transcript
 44_1,high prob,"When Grandma reads, she needs her glasses.",when grandma reads she needs her glasses,
 44_2,low prob,"When Grandma reads, she needs her boat.",when grandma reads she needs her boat,
 44_3,nonword,"When Bandma reads, she needs her boat.",when bandma reads she needs her boat,
-45_1,high prob,I wear sunglasses to shade my eyes.,i wear sunglasses to shade my eyes,['I wear sunglasses to shade my ice']
+45_1,high prob,I wear sunglasses to shade my eyes.,i wear sunglasses to shade my eyes,
 45_2,low prob,I wear sunglasses to shade my fire.,i wear sunglasses to shade my fire,
 45_3,nonword,I wear bunglasses to shade my fire.,i wear bunglasses to shade my fire,
 46_1,nonword,"At Shallentine's day, we drew lots of pants.",at shallentines day we drew lots of pants,
@@ -287,7 +287,7 @@ sentence_id,sentence_type,reference,expected_transcription,acceptable_transcript
 96_1,nonword,"In the oods lived a big, growly witch.",in the oods lived a big growly witch,
 96_2,high prob,"In the woods lived a big, growly witch.",in the woods lived a big growly witch,
 96_3,low prob,"In the woods lived a big, growly bear.",in the woods lived a big growly bear,['in the woods lived a big growly beer']
-97_1,low prob,"On Christmas, mommy left cookies for eyes.",on christmas mommy left cookies for eyes,['on christmas mommy left cookies for ice']
+97_1,low prob,"On Christmas, mommy left cookies for eyes.",on christmas mommy left cookies for eyes,
 97_2,nonword,"On Sistmas, mommy left cookies for eyes.",on sistmas mommy left cookies for eyes,['on sistmas mommy left cookies for ice']
 97_3,high prob,"On Christmas, mommy left cookies for santa.",on christmas mommy left cookies for santa,
 98_1,low prob,"There is one bathroom for the boys, and one for ants.",there is one bathroom for the boys and one for ants,['there is one bathroom for the boys and one for aunts']
